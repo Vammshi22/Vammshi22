@@ -6,15 +6,15 @@ Hi, I'm **Vamshi Krishna**, a final-year B.Tech student specializing in **Comput
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vammshi2.github.io/Vammshi_Portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18F6VIgjlP2oac8Ay4UbPUhDwITRm5GWa/view)
 
-
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, JavaScript, C++, HTML, CSS
-- **Web Development:** React, Node.js, Express.js, Bootstrap
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Docker
+- **Programming Languages:** Python, JavaScript, C++, HTML, CSS  
+- **Web Development Frameworks:** React, Node.js, Express.js, Bootstrap  
+- **Data Science Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Docker  
+
 
 ## 💼 Projects
 
