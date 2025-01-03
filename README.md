@@ -66,7 +66,7 @@ I'm currently focusing on improving my skills in **machine learning** and **clou
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vammshi2.github.io/Vammshi_Portfolio/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://bit.ly/codethings)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
