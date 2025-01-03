@@ -61,9 +61,10 @@ I'm currently focusing on improving my skills in **machine learning** and **clou
 
 Feel free to reach out to me via:
 
-- [LinkedIn](https://www.linkedin.com/in/vammshikrishnat/)
-- [Whatsapp](https://bit.ly/codethings)
-- [Email](t.vamshikrishna2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://bit.ly/codethings)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
+
 
 
 ## Let's Connect!
