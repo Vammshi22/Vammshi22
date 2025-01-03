@@ -2,6 +2,10 @@
 
 Hi, I'm **Vamshi Krishna**, a final-year B.Tech student specializing in **Computer Science** at **VIT Chennai**. I have a strong passion for **web development**, **data analysis**, and building impactful solutions through technology. While I haven't worked professionally yet, I've successfully completed several projects that showcase my skills and enthusiasm for innovation.
 
+## Links
+- [Portfolio](https://vammshi2.github.io/Vammshi_Portfolio/)
+- [Resume](https://drive.google.com/file/d/18F6VIgjlP2oac8Ay4UbPUhDwITRm5GWa/view)
+
 ## 🚀 Skills & Technologies
 
 - **Languages:** Python, JavaScript, C++, HTML, CSS
@@ -56,6 +60,6 @@ I'm currently focusing on improving my skills in **machine learning** and **clou
 
 Feel free to reach out to me via:
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](your-email-url)
+- [LinkedIn](https://www.linkedin.com/in/vammshikrishnat/)
+- [Whatsapp](https://bit.ly/codethings)
+- [Email](t.vamshikrishna2@gmail.com)
