@@ -58,13 +58,6 @@ I’m passionate about contributing to open-source projects, and I’m always lo
 I'm currently focusing on improving my skills in **machine learning** and **cloud technologies** to solve real-world problems. I am excited about applying these skills to future opportunities in **software development** and **data science**.
 ## 📞 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://bit.ly/codethings)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
-
-
-## Let's Connect!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vammshikrishnat/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://bit.ly/codethings)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:t.vamshikrishna2@gmail.com)
