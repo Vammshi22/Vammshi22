@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vammshi2&color=blueviolet)
 
----
 ## Links
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vammshi2.github.io/Vammshi_Portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18F6VIgjlP2oac8Ay4UbPUhDwITRm5GWa/view)
