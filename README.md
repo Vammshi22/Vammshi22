@@ -1,7 +1,10 @@
-# Vamshi Krishna
+# Hi there, I'm Vamshi Krishna! 👋
 
-Hi, I'm **Vamshi Krishna**, a final-year B.Tech student specializing in **Computer Science** at **VIT Chennai**. I have a strong passion for **web development**, **data analysis**, and building impactful solutions through technology. While I haven't worked professionally yet, I've successfully completed several projects that showcase my skills and enthusiasm for innovation.
+Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems, with a focus on **web development**, **data analysis**, and **machine learning**. I aim to combine my technical expertise and creativity to deliver impactful solutions.
 
+![Profile Views](https://komarev.com/ghpvc/?username=vammshi2&color=blueviolet)
+
+---
 ## Links
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=github&logoColor=white)](https://vammshi2.github.io/Vammshi_Portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18F6VIgjlP2oac8Ay4UbPUhDwITRm5GWa/view)
